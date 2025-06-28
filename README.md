@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minahil-hassan
-- 👀 I’m interested in software engineering, AI, Data science
+- 👀 I’m interested in data engineering, software engineering, AI, Data science
 - 🌱 I’m currently learning web dev, data science, C programming, Java, Linux, php, JS....
 - 💞️ I’m looking to collaborate on software applications
 - 📫 How to reach me minahi.ht@gmail.com
