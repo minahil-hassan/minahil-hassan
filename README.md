@@ -35,7 +35,7 @@ I thrive at the intersection of **data science, machine learning, and software e
 
 ## 🎯 Experience
 - **Data Scientist Intern** @ University of Liverpool (2025)  
-  Built applied AI platforms: vessel tracking system & behavioural marketing engine.  
+  Built applied Data & AI platforms: vessel tracking system & behavioural marketing engine.  
 
 - **Teaching Assistant – Machine Learning** @ University of Manchester (2025)  
   Guided 2nd-years on supervised & unsupervised ML pipelines.  
